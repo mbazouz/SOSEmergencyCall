@@ -1,0 +1,237 @@
+Algeria;18;14;14
+Angola;113;112;115
+Ascension Island;999;999;999
+Benin;117;112;118
+Burundi;117;112;118
+Botswana;911;911;911
+Burkina Faso;17;112;18
+Cameroon;112;112;112
+Cape Verde;132;130;131
+Central African Republic;117;1220;118
+Chad;17;2251;18
+Comoros;17;772;18
+Republic of Congo;117;0;118
+Democratic Republic of Congo;112;0;118
+Djibouti;17;19;18
+Egypt;122;123;180
+Equatorial Guinea;114;112;115
+Eritrea;113;114;116
+Ethiopia;911;911;911
+Gabon;1730;1300;18
+Gambia;117;116;188
+Ghana;999;999;999
+Guinea;122;442;1717
+Guinea-Bissau;112;112;112
+Ivory Coast;111;185;180
+Liberia;911;911;911
+Kenya;112;112;112
+Libya;1515;1515;1515
+Lesotho;123;121;122
+Madagascar;117;124;118
+Malawi;997;998;999
+Mali;17;15;18
+Mauritius;112;114;115
+Mauritania;117;101;118
+Mayotte;112;112;112
+Morocco;19;15;15
+Mozambique;119;117;198
+Namibia;112;112;112
+Niger;17;15;18
+Reunion;112;112;112
+Rwanda;112;912;112
+Saint Helena;999;911;999
+Sao Tome and Principe;112;112;112
+Senegal;17;15;18
+Seychelles;112;112;112
+Sierra Leone;019;999;999
+Somalia;888;999;555
+South Africa;10111;10177;10177
+Sudan;999;999;999
+South Sudan;999;999;999
+Swaziland;999;977;933
+Tanzania;112;115;114
+Togo;117;8200;118
+Tristan da Cunha;999;911;999
+Tunisia;197;190;198
+Tunisie;197;190;198
+Uganda;112;911;112
+Western Sahara;150;150;150
+Zambia;999;999;999
+Zimbabwe;999;999;999
+Antarctica;911;911;911
+Abkhazia;102;103;101
+Afghanistan;119;112;119
+Akrotiri and Dhekelia;112;112;112
+Bahrain;999;999;999
+Bangladesh;999;199;199
+Bhutan;113;112;110
+British Indian Ocean Territory;112;112;112
+Brunei;993;991;995
+Cambodia;117;119;118
+China;110;120;119
+Christmas Island;000;000;000
+East Timor;112;112;112
+Hong Kong;999;999;999
+India;100;102;101
+Indonesia;110;118;113
+Iran;110;115;125
+Traq;112;112;112
+Japan;110;119;119
+Jordan;911;911;911
+Kazakhstan;112;112;112
+Kyrgyzstan;102;103;101
+North Korea;119;119;119
+South Korea;112;119;119
+Kurdistan;112;112;112
+Kuwait;112;112;112
+Laos;191;195;190
+Lebanon;112;140;175
+Macau;99;999;999
+Maldives;119;102;118
+Malaysia;999;999;999
+Mongolia;105;105;105
+Nepal;100;102;101
+Oman;999;999;999
+Pakistan;15;115;16
+Philippines;911;911;911
+Qatar;999;999;999
+Saudi Arabia;112;112;112
+Singapore;999;995;995
+Sri Lanka;119;110;110
+Syria;112;110;113
+Taiwan;110;119;119
+Tajikstan;112;112;112
+Thailand;191;1669;199
+Tukmenistan;112;112;112
+United Arab Emirates;112;112;112
+Uzbekistan;112;112;112
+Vietnam;113;115;114
+Yemen;194;191;191
+Palestine;100;101;102
+Albania;112;112;112
+Andorra;112;112;112
+Armenia;112;112;112
+Austria;112;112;112
+Azerbaijan;112;112;112
+Belarus;102;103;101
+Belgium;112;112;112
+Bosnia and Herzegovina;112;112;112
+Bulgaria;112;112;112
+Croatia;112;112;112
+Cyprus;112;112;112
+Czech Republic;112;112;112
+Denmark;112;112;112
+Estonia;112;112;112
+Faroe Islands;112;112;112
+Finland;112;112;112
+France;112;112;112
+Georgia;112;112;112
+Germany;112;112;112
+Gibraltar;112;112;112
+Greece;112;112;112
+Greenland;112;112;112
+Guernsey;112;112;112
+Hungary;112;112;112
+Iceland;112;112;112
+Ireland;112;112;112
+Italy;112;112;112
+Jersey;112;112;112
+Latvia;112;112;112
+Lithuania;112;112;112
+Liechtenstein;112;112;112
+Luxembourg;112;112;112
+Former Yugoslav Republic of Macedonia;112;112;112
+Malta;112;112;112
+Moldova;902;903;901
+Monaco;112;112;112
+Montenegro;112;112;112
+Netherlands;112;112;112
+Cyprus;12;112;112
+Norway;112;113;110
+Poland;112;112;112
+Portugal;112;112;112
+Romania;112;112;112
+Russia;112;112;112
+San Marino;112;112;112
+Serbia;192;194;193
+Slovakia;112;112;112
+Spain;112;112;112
+Sweden;112;112;112
+Switzerland;112;112;112
+Transnistria;102;103;101
+Turkey;112;112;112
+Ukraine;112;112;112
+United Kingdom;112;112;112
+Vatikan City;112;112;112
+Australia;000;000;000
+Cook Islands;999;998;996
+Fiji;000;000;000
+French Polynesia;112;112;112
+Guam;911;911;911
+Kiribati;999;999;999
+Marshall Islands;911;911;911
+Micronesia;911;911;911
+Nauru;110;111;112
+New Caledonia;112;112;112
+New Zealand;111;111;111
+Palau;911;911;911
+Papua New Guinea;112;111;110
+Samoa;999;999;999
+Solomon Islands;911;911;911
+Tonga;911;911;911
+Tuvalu;911;911;911
+Vanuatu;112;112;112
+American Samoa;911;911;911
+Antigua and Barbuda;911;911;911
+Anguilla;911;911;911
+Aruba;911;911;911
+Belize;911;911;911
+Bermuda;911;911;911
+British Virgin Islands;911;911;911
+Canada;911;911;911
+Clipperton Island;112;112;112
+Cuba;106;104;105
+Curacao;106;104;105
+Dominica;999;999;999
+Grenada;911;911;911
+Guadeloupe;112;112;112
+Martinique;112;112;112
+Mexico;112;112;112
+Mexico;066;066;066
+Montserrat;911;911;911
+Navassa Island;911;911;911
+Saint Kitts and Nevis;911;911;911
+Saint Lucia;911;911;911
+Saint Pierre and Miquelon;112;112;112
+Saint Vincent and the Grenadines;911;911;911
+United States of America;911;911;911
+United States Virgin Islands;911;911;911
+Barbados;911;911;911
+The Bahamas;911;911;911
+Bonaire;911;911;911
+Cayman Islands;911;911;911
+Costa Rica;911;911;911
+Dominican Republic;911;911;911
+Guatemala;110;128;122
+El Salvador;911;132;913
+Haiti;114;116;115
+Honduras;112;195;198
+Jamaica;119;110;110
+Nicaragua;118;128;115
+Panama;911;911;911
+Puerto Rico;911;911;911
+Trinidad and Tobago;999;990;990
+Argentina;911;911;911
+Bolivia;911;911;911
+Brazil;190;192;193
+Chile;133;131;132
+Colombia;123;123;123
+Ecuador;911;911;911
+Falkland Islands;112;112;112
+French Guiana;999;999;999
+Paraguay;911;911;911
+Peru;911;911;911
+South Georgia and the South Sandwich Islands;999;999;999
+Suriname;112;112;112
+Uruguay;911;911;911
+Venezuela;911;911;911
